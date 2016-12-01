@@ -39,3 +39,34 @@ https://www.youtube.com/watch?v=2y-lGbHGIxY&list=PLzz9vf6075V0D26QoISC0R6Lx1xZDh
 https://www.youtube.com/watch?v=JEn16aQoowE&list=PLkZU2rKh1mT9TgMvpFY1QVrX2z4I3D3Jq
 
 
+
+## What Is New in Laravel 5.3?  
+http://devmarketer.io/learn/new-laravel-5-3-part1-small-changes/  
+
+
+VISIT BACK FREQUENTLY TO SEE UPDATES. VIDEOS COMING OUT SOON FOR ALL OF THESE NEW FEATURES.
+
+All the Small Changes (There are a lot) in Laravel 5.3  
+Directory (file) changes in Laravel 5.3  
+Changes to Routing in Laravel 5.3  
+NPM and Yarn in Laravel 5.3  
+Cache global helper in Laravel 5.3  
+Custom Pagination in Laravel 5.3  
+Pivot table toggling instead of sync in Laravel 5.3  
+Image dimension validation rules in Laravel 5.3  
+Working with JSON and MySQL in Laravel 5.3  
+Easier file uploads in Laravel 5.3  
+Easier Mail() with Mailable in Laravel 5.3  
+Notifications with Notifiable in Laravel 5.3  
+Easier Searching with Laravel Scout in Laravel 5.3  
+Easier Broadcasting with Laravel Echo in Laravel 5.3  
+
+
+http://devmarketer.io/learn/new-laravel-5-3-part1-small-changes/
+
+
+
+
+
+
+
